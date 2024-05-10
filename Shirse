@@ -1,0 +1,2 @@
+let jenny = "Hi Harry";
+console.log(jenny)
