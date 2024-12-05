@@ -1,0 +1,2 @@
+const jenny = "Jenny is a develope" ;
+console.log(jenny);
